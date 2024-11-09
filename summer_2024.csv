@@ -1,0 +1,906 @@
+DATE,GENDER,GRADE,REGION
+24,Female,9.0,Tashkent city
+24,Female,11.0,Kashkadarya
+24,Female,Freshman,Tashkent city
+24,Male,Sophomore,Karakalpakistan
+24,Male,Sophomore,Navoi
+24,Male,10.0,Tashkent city
+24,Male,11.0,Andijan
+24,Female,10.0,Surkhandarya
+24,Male,9.0,Navoi
+24,Male,11.0,Tashkent city
+24,Female,10.0,Andijan
+24,Male,10.0,Navoi
+24,Female,10.0,Sirdarya
+24,Male,Senior,Samarkand
+24,Male,9.0,Navoi
+24,Female,9.0,Karakalpakistan
+24,Female,9.0,Jizzakh
+24,Female,10.0,Tashkent region
+24,Male,Freshman,Karakalpakistan
+29,Female,10.0,Kashkadarya
+24,Male,11.0,Tashkent city
+24,Female,9.0,Khorazm
+24,Male,9.0,Navoi
+24,Male,Freshman,Navoi
+24,Female,Senior,Tashkent city
+24,Male,Senior,Andijan
+24,Female,Senior,Navoi
+24,Male,10.0,Andijan
+24,Female,Freshman,Bukhara
+24,Female,10.0,Samarkand
+24,Female,10.0,Kashkadarya
+24,Female,Junior,Jizzakh
+24,Male,11.0,Kashkadarya
+24,Female,Freshman,Kashkadarya
+24,Male,9.0,Navoi
+24,Female,10.0,Tashkent city
+24,Female,Freshman,Jizzakh
+24,Female,10.0,Tashkent city
+24,Female,Freshman,Khorazm
+24,Female,10.0,Namangan
+24,Male,10.0,Khorazm
+2,Female,9.0,Tashkent city
+24,Female,11.0,Tashkent city
+25,Female,Freshman,Jizzakh
+25,Male,Freshman,Namangan
+25,Male,9.0,Bukhara
+25,Female,11.0,Khorazm
+25,Female,Sophomore,Tashkent region
+25,Female,10.0,Tashkent city
+25,Female,Freshman,Fergana
+25,Female,Freshman,Tashkent city
+25,Male,10.0,Navoi
+25,Female,Sophomore,Bukhara
+25,Male,Freshman,Navoi
+25,Male,Freshman,Fergana
+25,Female,11.0,Tashkent region
+25,Female,Freshman,Jizzakh
+25,Male,9.0,Tashkent city
+25,Female,Senior,Kashkadarya
+25,Male,Junior,Bukhara
+25,Female,10.0,Tashkent city
+25,Male,Senior,Tashkent region
+25,Female,Junior,Kashkadarya
+25,Male,Senior,Andijan
+25,Female,9.0,Bukhara
+25,Female,9.0,Karakalpakistan
+25,Male,Sophomore,Namangan
+25,Male,10.0,Tashkent region
+25,Female,Junior,Khorazm
+25,Female,Senior,Tashkent city
+25,Male,11.0,Fergana
+25,Male,10.0,Fergana
+25,Male,Freshman,Bukhara
+25,Female,Freshman,Fergana
+25,Female,9.0,Namangan
+25,Female,9.0,Tashkent city
+25,Female,Senior,Surkhandarya
+25,Male,10.0,Tashkent city
+25,Female,Freshman,Jizzakh
+25,Male,11.0,Jizzakh
+25,Female,9.0,Bukhara
+25,Female,Freshman,Samarkand
+25,Female,10.0,Tashkent region
+25,Female,10.0,Navoi
+25,Female,9.0,Namangan
+25,Male,9.0,Andijan
+25,Female,10.0,Samarkand
+25,Female,10.0,Samarkand
+25,Male,11.0,Samarkand
+25,Female,10.0,Samarkand
+25,Male,Sophomore,Fergana
+25,Female,9.0,Kashkadarya
+25,Female,10.0,Khorazm
+25,Female,9.0,Bukhara
+25,Male,9.0,Andijan
+25,Female,Junior,Bukhara
+25,Female,10.0,Jizzakh
+25,Male,10.0,Namangan
+25,Male,10.0,Sirdarya
+25,Female,10.0,Fergana
+25,Female,10.0,Namangan
+25,Female,10.0,Tashkent city
+25,Male,10.0,Khorazm
+25,Male,10.0,Khorazm
+25,Female,9.0,Andijan
+25,Male,10.0,Tashkent region
+25,Female,10.0,Navoi
+25,Male,10.0,Navoi
+25,Male,10.0,Tashkent region
+25,Female,Junior,Tashkent city
+25,Female,9.0,Tashkent region
+25,Female,Junior,Fergana
+25,Female,10.0,Tashkent city
+25,Male,10.0,Fergana
+25,Female,9.0,Tashkent region
+25,Male,9.0,Tashkent city
+25,Female,Freshman,Fergana
+25,Female,10.0,Jizzakh
+25,Female,10.0,Andijan
+25,Female,Freshman,Fergana
+25,Male,Freshman,Tashkent region
+25,Male,11.0,Tashkent city
+25,Male,Junior,Surkhandarya
+25,Female,Junior,Samarkand
+25,Female,10.0,Tashkent city
+25,Female,9.0,Jizzakh
+26,Female,Junior,Bukhara
+26,Male,Freshman,Tashkent city
+26,Male,Freshman,Tashkent city
+26,Male,Senior,Namangan
+26,Male,Sophomore,Tashkent city
+26,Male,9.0,Fergana
+26,Male,9.0,Fergana
+26,Male,10.0,Tashkent city
+26,Male,10.0,Fergana
+26,Female,Freshman,Andijan
+26,Female,Freshman,Samarkand
+26,Male,Senior,Andijan
+26,Male,11.0,Andijan
+26,Male,10.0,Sirdarya
+26,Female,Freshman,Andijan
+26,Female,Sophomore,Kashkadarya
+26,Female,10.0,Tashkent city
+26,Female,11.0,Tashkent city
+26,Male,10.0,Tashkent city
+26,Female,10.0,Namangan
+26,Male,11.0,Tashkent city
+26,Female,9.0,Tashkent region
+26,Female,10.0,Bukhara
+26,Female,9.0,Tashkent region
+26,Female,9.0,Tashkent city
+26,Female,11.0,Namangan
+26,Male,Freshman,Khorazm
+26,Male,11.0,Tashkent city
+26,Male,10.0,Tashkent city
+26,Female,10.0,Tashkent region
+26,Male,11.0,Tashkent city
+26,Female,Sophomore,Tashkent region
+26,Male,10.0,Kashkadarya
+26,Female,9.0,Kashkadarya
+26,Female,10.0,Surkhandarya
+26,Female,10.0,Karakalpakistan
+26,Female,Freshman,Jizzakh
+26,Female,10.0,Andijan
+26,Male,9.0,Fergana
+26,Male,9.0,Fergana
+26,Male,9.0,Fergana
+26,Male,10.0,Andijan
+26,Male,10.0,Fergana
+26,Male,10.0,Fergana
+26,Male,9.0,Navoi
+26,Female,11.0,Tashkent city
+26,Female,11.0,Sirdarya
+26,Female,11.0,Andijan
+26,Female,Sophomore,Tashkent city
+26,Female,11.0,Tashkent city
+26,Female,Sophomore,Sirdarya
+26,Female,Junior,Jizzakh
+26,Female,11.0,Tashkent city
+26,Male,10.0,Andijan
+26,Male,10.0,Namangan
+26,Female,10.0,Khorazm
+26,Female,Freshman,Khorazm
+26,Female,10.0,Jizzakh
+26,Female,9.0,Kashkadarya
+26,Female,9.0,Jizzakh
+26,Male,10.0,Samarkand
+26,Male,Junior,Tashkent city
+26,Male,Freshman,Kashkadarya
+26,Male,Freshman,Tashkent city
+26,Female,9.0,Bukhara
+26,Female,10.0,Sirdarya
+26,Female,10.0,Kashkadarya
+26,Female,9.0,Kashkadarya
+26,Female,11.0,Navoi
+26,Male,11.0,Tashkent region
+26,Female,Junior,Tashkent city
+26,Female,9.0,Kashkadarya
+26,Male,Freshman,Bukhara
+26,Female,Senior,Namangan
+27,Male,9.0,Navoi
+27,Male,11.0,Tashkent region
+27,Female,11.0,Fergana
+27,Female,11.0,Tashkent city
+27,Female,Freshman,Kashkadarya
+27,Male,10.0,Namangan
+27,Male,10.0,Sirdarya
+27,Female,10.0,Namangan
+27,Male,9.0,Tashkent city
+27,Female,10.0,Sirdarya
+27,Female,10.0,Fergana
+27,Male,9.0,Fergana
+27,Male,10.0,Tashkent region
+27,Female,10.0,Kashkadarya
+27,Male,10.0,Khorazm
+30,Male,10.0,Sirdarya
+27,Female,Freshman,Namangan
+27,Female,10.0,Tashkent city
+27,Male,10.0,Sirdarya
+27,Male,Sophomore,Bukhara
+27,Female,10.0,Samarkand
+27,Male,11.0,Karakalpakistan
+27,Male,Freshman,Kashkadarya
+27,Female,10.0,Samarkand
+27,Female,11.0,Tashkent city
+27,Male,11.0,Tashkent city
+27,Male,9.0,Sirdarya
+27,Male,10.0,Kashkadarya
+27,Male,Sophomore,Karakalpakistan
+27,Female,11.0,Namangan
+27,Male,Freshman,Tashkent city
+27,Female,11.0,Sirdarya
+28,Male,9.0,Andijan
+27,Female,Freshman,Bukhara
+27,Female,9.0,Surkhandarya
+27,Male,10.0,Namangan
+27,Female,11.0,Kashkadarya
+27,Female,9.0,Fergana
+27,Female,10.0,Kashkadarya
+27,Female,Sophomore,Tashkent city
+27,Male,Sophomore,Jizzakh
+27,Male,10.0,Andijan
+27,Female,9.0,Kashkadarya
+27,Female,10.0,Karakalpakistan
+27,Male,10.0,Fergana
+27,Female,9.0,Karakalpakistan
+27,Female,11.0,Navoi
+29,Female,9.0,Sirdarya
+27,Male,10.0,Tashkent city
+27,Male,9.0,Namangan
+27,Female,11.0,Fergana
+27,Male,10.0,Samarkand
+27,Male,10.0,Tashkent region
+27,Female,9.0,Fergana
+27,Female,11.0,Kashkadarya
+27,Male,11.0,Tashkent city
+27,Female,Sophomore,Tashkent region
+27,Female,10.0,Kashkadarya
+27,Female,10.0,Tashkent city
+27,Female,9.0,Kashkadarya
+27,Male,Junior,Tashkent city
+27,Male,9.0,Fergana
+27,Male,11.0,Namangan
+27,Female,Freshman,Fergana
+27,Female,9.0,Tashkent region
+27,Male,10.0,Samarkand
+27,Male,10.0,Tashkent region
+27,Female,Sophomore,Kashkadarya
+27,Female,10.0,Kashkadarya
+27,Female,11.0,Fergana
+27,Female,Sophomore,Tashkent region
+28,Female,9.0,Karakalpakistan
+28,Female,Sophomore,Tashkent city
+28,Male,10.0,Kashkadarya
+28,Female,9.0,Tashkent region
+28,Female,Sophomore,Kashkadarya
+28,Female,11.0,Kashkadarya
+28,Male,10.0,Andijan
+28,Female,11.0,Fergana
+28,Male,10.0,Namangan
+28,Male,9.0,Fergana
+28,Male,10.0,Sirdarya
+28,Female,10.0,Kashkadarya
+28,Male,10.0,Sirdarya
+28,Female,9.0,Namangan
+28,Male,10.0,Kashkadarya
+28,Female,10.0,Khorazm
+28,Female,11.0,Navoi
+30,Male,10.0,Tashkent region
+28,Male,Senior,Kashkadarya
+28,Male,10.0,Samarkand
+28,Male,10.0,Tashkent city
+28,Female,10.0,Surkhandarya
+28,Female,10.0,Sirdarya
+28,Female,10.0,Karakalpakistan
+28,Female,9.0,Fergana
+28,Male,10.0,Namangan
+28,Female,10.0,Samarkand
+29,Female,10.0,Andijan
+28,Male,10.0,Andijan
+28,Female,10.0,Sirdarya
+28,Male,10.0,Tashkent region
+28,Male,11.0,Tashkent region
+28,Female,11.0,Andijan
+28,Male,10.0,Andijan
+28,Male,10.0,Karakalpakistan
+28,Male,11.0,Namangan
+28,Female,10.0,Sirdarya
+28,Female,10.0,Andijan
+28,Female,10.0,Sirdarya
+28,Male,Junior,Andijan
+28,Female,9.0,Tashkent city
+28,Female,10.0,Tashkent region
+28,Female,10.0,Tashkent region
+28,Male,Senior,Khorazm
+28,Female,Freshman,Samarkand
+28,Male,11.0,Andijan
+29,Male,Junior,Andijan
+29,Male,Sophomore,Tashkent region
+29,Male,10.0,Samarkand
+29,Female,10.0,Namangan
+29,Female,10.0,Tashkent region
+29,Male,10.0,Sirdarya
+29,Male,10.0,Andijan
+29,Male,10.0,Tashkent region
+29,Female,11.0,Fergana
+29,Male,9.0,Fergana
+29,Male,9.0,Fergana
+29,Male,11.0,Samarkand
+29,Male,10.0,Fergana
+29,Male,10.0,Sirdarya
+29,Male,10.0,Sirdarya
+29,Male,10.0,Samarkand
+29,Male,10.0,Sirdarya
+29,Male,9.0,Navoi
+29,Male,Freshman,Fergana
+29,Male,10.0,Namangan
+29,Male,10.0,Andijan
+29,Female,9.0,Sirdarya
+29,Female,Junior,Tashkent city
+29,Female,Freshman,Tashkent city
+29,Male,10.0,Fergana
+29,Male,9.0,Namangan
+29,Female,Freshman,Andijan
+29,Female,10.0,Namangan
+29,Female,Freshman,Andijan
+29,Male,Junior,Tashkent city
+29,Male,9.0,Namangan
+29,Female,10.0,Samarkand
+29,Male,11.0,Tashkent city
+29,Female,10.0,Kashkadarya
+29,Female,10.0,Tashkent city
+29,Female,9.0,Navoi
+29,Female,10.0,Namangan
+29,Female,11.0,Andijan
+29,Female,10.0,Sirdarya
+29,Female,10.0,Namangan
+29,Male,10.0,Navoi
+29,Female,10.0,Fergana
+29,Male,10.0,Sirdarya
+29,Male,9.0,Tashkent city
+29,Female,9.0,Namangan
+29,Male,9.0,Fergana
+29,Male,11.0,Tashkent region
+29,Female,9.0,Namangan
+29,Female,10.0,Bukhara
+29,Female,10.0,Andijan
+29,Female,Freshman,Namangan
+29,Female,10.0,Sirdarya
+29,Female,9.0,Fergana
+29,Female,10.0,Namangan
+29,Male,Freshman,Surkhandarya
+29,Male,10.0,Sirdarya
+29,Female,11.0,Kashkadarya
+29,Female,Freshman,Andijan
+29,Female,10.0,Fergana
+29,Female,Freshman,Fergana
+29,Female,9.0,Namangan
+29,Female,10.0,Tashkent city
+29,Male,10.0,Tashkent city
+29,Female,9.0,Kashkadarya
+29,Female,10.0,Tashkent region
+29,Male,Freshman,Namangan
+29,Female,10.0,Tashkent city
+29,Female,9.0,Samarkand
+29,Male,9.0,Navoi
+29,Female,9.0,Namangan
+29,Female,9.0,Khorazm
+29,Female,Freshman,Kashkadarya
+29,Female,10.0,Khorazm
+29,Female,10.0,Samarkand
+29,Male,Freshman,Tashkent city
+29,Female,9.0,Fergana
+29,Male,11.0,Andijan
+29,Female,10.0,Andijan
+29,Female,10.0,Andijan
+29,Male,Junior,Bukhara
+29,Female,11.0,Andijan
+29,Male,9.0,Namangan
+29,Male,11.0,Surkhandarya
+29,Female,10.0,Kashkadarya
+29,Male,11.0,Kashkadarya
+29,Female,9.0,Fergana
+29,Male,9.0,Fergana
+29,Female,10.0,Tashkent city
+29,Male,11.0,Bukhara
+29,Male,10.0,Sirdarya
+29,Male,10.0,Tashkent city
+29,Female,9.0,Andijan
+29,Male,10.0,Andijan
+29,Male,10.0,Tashkent city
+29,Male,9.0,Navoi
+29,Female,10.0,Tashkent city
+29,Male,11.0,Andijan
+29,Female,11.0,Bukhara
+29,Female,9.0,Andijan
+29,Male,Senior,Karakalpakistan
+29,Female,Freshman,Kashkadarya
+29,Female,Sophomore,Fergana
+29,Female,Freshman,Navoi
+29,Female,10.0,Andijan
+29,Female,Sophomore,Sirdarya
+29,Male,10.0,Khorazm
+29,Female,Freshman,Tashkent city
+29,Female,10.0,Tashkent city
+31,Female,10.0,Khorazm
+29,Female,11.0,Andijan
+29,Female,10.0,Navoi
+29,Male,10.0,Karakalpakistan
+29,Female,11.0,Tashkent city
+29,Female,Freshman,Navoi
+29,Male,9.0,Sirdarya
+29,Male,10.0,Andijan
+29,Female,Freshman,Tashkent city
+29,Female,10.0,Tashkent city
+29,Female,10.0,Bukhara
+29,Female,9.0,Sirdarya
+29,Female,10.0,Tashkent region
+29,Female,9.0,Tashkent region
+29,Male,11.0,Andijan
+29,Female,11.0,Samarkand
+29,Male,Freshman,Surkhandarya
+29,Female,Freshman,Kashkadarya
+29,Female,Freshman,Jizzakh
+29,Male,10.0,Samarkand
+30,Female,11.0,Navoi
+29,Female,11.0,Jizzakh
+29,Female,9.0,Bukhara
+29,Male,9.0,Fergana
+29,Female,9.0,Kashkadarya
+30,Male,10.0,Tashkent city
+30,Female,Freshman,Navoi
+30,Female,9.0,Fergana
+30,Male,10.0,Jizzakh
+30,Female,9.0,Andijan
+30,Female,10.0,Kashkadarya
+30,Female,10.0,Fergana
+30,Male,11.0,Fergana
+30,Female,11.0,Samarkand
+30,Female,11.0,Khorazm
+30,Male,10.0,Surkhandarya
+30,Female,11.0,Tashkent city
+30,Female,11.0,Kashkadarya
+30,Female,10.0,Sirdarya
+30,Female,9.0,Namangan
+30,Female,9.0,Kashkadarya
+30,Female,9.0,Kashkadarya
+30,Female,10.0,Fergana
+30,Female,9.0,Kashkadarya
+30,Male,10.0,Tashkent city
+30,Female,10.0,Fergana
+30,Female,9.0,Navoi
+30,Male,10.0,Fergana
+30,Female,11.0,Andijan
+30,Female,9.0,Navoi
+30,Female,11.0,Fergana
+30,Female,Freshman,Fergana
+30,Female,9.0,Sirdarya
+30,Male,10.0,Samarkand
+30,Female,11.0,Tashkent city
+30,Male,11.0,Tashkent region
+30,Female,11.0,Fergana
+30,Female,10.0,Namangan
+30,Male,11.0,Sirdarya
+30,Male,11.0,Khorazm
+30,Male,10.0,Surkhandarya
+30,Male,9.0,Namangan
+30,Female,11.0,Tashkent city
+30,Male,11.0,Jizzakh
+30,Female,11.0,Tashkent city
+30,Male,10.0,Fergana
+30,Female,11.0,Fergana
+30,Female,10.0,Andijan
+30,Male,11.0,Namangan
+30,Male,11.0,Samarkand
+30,Female,9.0,Sirdarya
+30,Male,11.0,Jizzakh
+30,Male,11.0,Tashkent city
+30,Female,10.0,Sirdarya
+30,Male,11.0,Kashkadarya
+30,Female,10.0,Bukhara
+30,Male,11.0,Jizzakh
+30,Female,11.0,Fergana
+30,Male,11.0,Jizzakh
+30,Female,10.0,Fergana
+30,Female,9.0,Sirdarya
+30,Male,11.0,Jizzakh
+30,Male,11.0,Bukhara
+30,Female,10.0,Jizzakh
+30,Female,11.0,Andijan
+30,Male,11.0,Kashkadarya
+30,Male,11.0,Tashkent region
+30,Female,Senior,Khorazm
+30,Female,11.0,Jizzakh
+30,Female,9.0,Surkhandarya
+30,Female,10.0,Andijan
+30,Female,11.0,Kashkadarya
+30,Female,Junior,Tashkent city
+30,Female,9.0,Tashkent region
+30,Female,10.0,Andijan
+30,Male,11.0,Fergana
+30,Male,11.0,Namangan
+30,Female,11.0,Tashkent city
+30,Male,11.0,Sirdarya
+30,Female,10.0,Sirdarya
+30,Female,10.0,Karakalpakistan
+30,Male,10.0,Sirdarya
+30,Male,10.0,Tashkent region
+30,Male,10.0,Namangan
+30,Male,11.0,Jizzakh
+30,Female,Freshman,Khorazm
+30,Male,9.0,Sirdarya
+30,Female,Sophomore,Tashkent city
+30,Female,Sophomore,Khorazm
+30,Male,11.0,Tashkent city
+30,Female,9.0,Andijan
+30,Female,9.0,Karakalpakistan
+30,Female,9.0,Tashkent region
+30,Male,11.0,Jizzakh
+30,Male,11.0,Andijan
+30,Male,10.0,Tashkent region
+30,Male,9.0,Sirdarya
+30,Female,10.0,Bukhara
+30,Female,10.0,Andijan
+30,Female,11.0,Khorazm
+30,Female,9.0,Sirdarya
+30,Female,9.0,Tashkent region
+30,Female,10.0,Fergana
+30,Male,11.0,Andijan
+30,Male,11.0,Khorazm
+30,Male,10.0,Tashkent city
+30,Female,11.0,Tashkent city
+30,Female,9.0,Fergana
+2,Female,9.0,Samarkand
+30,Male,10.0,Kashkadarya
+30,Male,11.0,Kashkadarya
+30,Female,10.0,Tashkent city
+30,Female,9.0,Sirdarya
+30,Female,9.0,Tashkent city
+30,Female,10.0,Khorazm
+30,Male,9.0,Sirdarya
+30,Female,Junior,Khorazm
+30,Male,Freshman,Kashkadarya
+30,Female,Freshman,Tashkent city
+30,Female,9.0,Sirdarya
+30,Male,11.0,Tashkent region
+30,Male,11.0,Samarkand
+30,Female,10.0,Tashkent region
+30,Female,9.0,Fergana
+30,Female,9.0,Bukhara
+30,Female,10.0,Karakalpakistan
+30,Female,10.0,Navoi
+30,Male,9.0,Tashkent region
+30,Male,Freshman,Tashkent city
+30,Female,10.0,Fergana
+30,Male,10.0,Tashkent city
+30,Male,10.0,Samarkand
+30,Female,9.0,Kashkadarya
+30,Male,11.0,Kashkadarya
+30,Male,10.0,Tashkent region
+30,Female,Senior,Jizzakh
+30,Male,10.0,Kashkadarya
+30,Female,Junior,Tashkent city
+30,Female,10.0,Fergana
+30,Female,11.0,Tashkent city
+30,Female,11.0,Kashkadarya
+30,Female,9.0,Karakalpakistan
+30,Male,9.0,Bukhara
+30,Male,Junior,Tashkent city
+30,Male,10.0,Fergana
+30,Female,10.0,Bukhara
+30,Male,10.0,Khorazm
+30,Female,11.0,Andijan
+30,Female,Junior,Tashkent region
+30,Female,10.0,Namangan
+30,Male,10.0,Tashkent city
+30,Female,10.0,Karakalpakistan
+30,Female,Senior,Navoi
+30,Female,9.0,Kashkadarya
+30,Female,Sophomore,Navoi
+30,Female,9.0,Fergana
+30,Male,11.0,Tashkent region
+30,Female,10.0,Samarkand
+30,Male,10.0,Fergana
+30,Male,10.0,Fergana
+30,Female,9.0,Tashkent city
+30,Male,9.0,Tashkent city
+30,Female,11.0,Andijan
+30,Female,10.0,Namangan
+30,Male,9.0,Andijan
+30,Female,Senior,Tashkent city
+30,Male,11.0,Namangan
+30,Female,11.0,Samarkand
+30,Male,9.0,Sirdarya
+30,Male,9.0,Sirdarya
+30,Male,9.0,Tashkent region
+30,Female,10.0,Andijan
+30,Male,11.0,Fergana
+30,Male,10.0,Namangan
+30,Male,10.0,Fergana
+30,Female,9.0,Bukhara
+30,Female,10.0,Karakalpakistan
+30,Male,9.0,Fergana
+30,Female,10.0,Kashkadarya
+30,Male,11.0,Kashkadarya
+30,Female,Freshman,Bukhara
+30,Female,10.0,Tashkent city
+30,Female,11.0,Samarkand
+30,Female,9.0,Tashkent city
+30,Female,Sophomore,Bukhara
+30,Female,11.0,Fergana
+30,Female,10.0,Khorazm
+30,Female,Freshman,Samarkand
+30,Female,9.0,Navoi
+30,Male,10.0,Sirdarya
+30,Female,10.0,Namangan
+30,Male,9.0,Tashkent region
+30,Male,Freshman,Kashkadarya
+30,Female,9.0,Tashkent city
+30,Male,10.0,Surkhandarya
+30,Male,10.0,Kashkadarya
+30,Male,10.0,Jizzakh
+30,Female,Sophomore,Khorazm
+30,Male,10.0,Surkhandarya
+30,Male,10.0,Fergana
+30,Female,9.0,Karakalpakistan
+30,Male,11.0,Khorazm
+30,Male,10.0,Fergana
+30,Female,9.0,Kashkadarya
+30,Female,10.0,Bukhara
+30,Female,10.0,Navoi
+30,Male,10.0,Surkhandarya
+30,Female,11.0,Navoi
+30,Male,10.0,Khorazm
+30,Male,9.0,Navoi
+30,Female,10.0,Navoi
+30,Male,9.0,Bukhara
+30,Male,9.0,Navoi
+30,Male,10.0,Surkhandarya
+30,Female,9.0,Karakalpakistan
+30,Female,9.0,Fergana
+30,Male,Senior,Bukhara
+30,Female,10.0,Fergana
+30,Male,10.0,Fergana
+30,Female,10.0,Karakalpakistan
+30,Female,9.0,Tashkent region
+30,Male,10.0,Jizzakh
+30,Male,9.0,Tashkent city
+30,Male,9.0,Tashkent city
+30,Male,Junior,Tashkent city
+30,Male,10.0,Surkhandarya
+30,Male,11.0,Khorazm
+30,Male,11.0,Tashkent city
+30,Male,10.0,Tashkent city
+30,Female,Freshman,Namangan
+30,Male,Junior,Tashkent city
+30,Female,Sophomore,Surkhandarya
+30,Male,9.0,Tashkent city
+30,Male,10.0,Bukhara
+30,Female,10.0,Khorazm
+30,Female,10.0,Samarkand
+30,Female,10.0,Fergana
+30,Male,9.0,Tashkent region
+30,Male,9.0,Andijan
+30,Male,9.0,Navoi
+30,Female,10.0,Fergana
+30,Male,10.0,Kashkadarya
+30,Male,9.0,Navoi
+30,Male,10.0,Tashkent city
+30,Male,10.0,Surkhandarya
+30,Female,10.0,Tashkent region
+30,Male,11.0,Navoi
+30,Male,11.0,Samarkand
+30,Female,11.0,Tashkent city
+30,Female,10.0,Andijan
+30,Male,11.0,Tashkent city
+30,Female,10.0,Tashkent region
+30,Male,9.0,Fergana
+30,Male,9.0,Tashkent city
+30,Male,11.0,Samarkand
+30,Female,11.0,Sirdarya
+30,Male,11.0,Andijan
+30,Male,11.0,Jizzakh
+30,Female,Sophomore,Fergana
+30,Female,11.0,Tashkent city
+30,Male,10.0,Khorazm
+30,Male,9.0,Tashkent city
+31,Female,9.0,Fergana
+31,Female,Senior,Sirdarya
+3,Female,9.0,Tashkent city
+31,Female,10.0,Tashkent city
+31,Female,Freshman,Tashkent region
+31,Male,9.0,Tashkent city
+31,Female,9.0,Sirdarya
+31,Male,10.0,Khorazm
+31,Female,10.0,Kashkadarya
+31,Female,9.0,Khorazm
+31,Female,11.0,Tashkent city
+31,Female,10.0,Tashkent region
+31,Female,9.0,Khorazm
+31,Female,11.0,Samarkand
+31,Male,10.0,Tashkent city
+31,Female,10.0,Kashkadarya
+31,Female,10.0,Surkhandarya
+31,Female,9.0,Kashkadarya
+31,Male,11.0,Namangan
+31,Female,11.0,Karakalpakistan
+31,Male,11.0,Samarkand
+31,Male,10.0,Kashkadarya
+31,Male,10.0,Khorazm
+31,Female,11.0,Sirdarya
+31,Male,11.0,Andijan
+31,Female,10.0,Namangan
+31,Male,11.0,Andijan
+31,Male,11.0,Khorazm
+31,Female,10.0,Surkhandarya
+31,Female,Freshman,Bukhara
+31,Female,10.0,Samarkand
+31,Male,Freshman,Tashkent city
+31,Female,9.0,Tashkent region
+31,Male,10.0,Kashkadarya
+31,Female,11.0,Tashkent city
+31,Male,11.0,Khorazm
+31,Male,10.0,Samarkand
+31,Male,10.0,Tashkent city
+31,Female,10.0,Kashkadarya
+31,Female,Junior,Tashkent city
+31,Male,9.0,Kashkadarya
+31,Female,11.0,Jizzakh
+31,Female,10.0,Namangan
+31,Female,10.0,Kashkadarya
+31,Male,10.0,Andijan
+31,Female,Senior,Namangan
+31,Male,10.0,Karakalpakistan
+31,Male,9.0,Karakalpakistan
+31,Female,10.0,Tashkent city
+31,Female,Senior,Tashkent city
+31,Female,9.0,Karakalpakistan
+31,Female,9.0,Bukhara
+31,Female,11.0,Tashkent region
+31,Male,Freshman,Samarkand
+31,Female,Senior,Tashkent city
+31,Male,11.0,Khorazm
+31,Male,10.0,Tashkent region
+31,Male,Freshman,Namangan
+31,Male,11.0,Tashkent region
+31,Male,9.0,Khorazm
+31,Female,Junior,Samarkand
+31,Female,Freshman,Samarkand
+31,Female,9.0,Fergana
+31,Female,Senior,Samarkand
+31,Male,9.0,Tashkent region
+31,Female,9.0,Sirdarya
+31,Male,10.0,Khorazm
+31,Male,10.0,Navoi
+31,Male,9.0,Andijan
+31,Male,Freshman,Bukhara
+31,Male,10.0,Fergana
+31,Female,Sophomore,Kashkadarya
+31,Male,9.0,Khorazm
+31,Female,11.0,Samarkand
+1,Male,10.0,Navoi
+1,Female,Sophomore,Bukhara
+1,Male,9.0,Fergana
+1,Female,11.0,Namangan
+1,Female,9.0,Samarkand
+1,Male,10.0,Tashkent region
+1,Female,11.0,Kashkadarya
+1,Female,Freshman,Tashkent region
+1,Female,9.0,Tashkent region
+1,Female,10.0,Namangan
+1,Female,9.0,Tashkent region
+1,Female,Junior,Kashkadarya
+1,Male,9.0,Andijan
+1,Male,10.0,Surkhandarya
+1,Female,11.0,Kashkadarya
+1,Male,10.0,Andijan
+1,Male,10.0,Kashkadarya
+1,Male,10.0,Tashkent region
+1,Female,9.0,Fergana
+1,Female,11.0,Kashkadarya
+1,Female,11.0,Khorazm
+1,Male,11.0,Andijan
+1,Male,10.0,Tashkent region
+1,Female,9.0,Tashkent region
+2,Male,9.0,Jizzakh
+1,Male,10.0,Tashkent city
+1,Male,9.0,Tashkent city
+1,Male,10.0,Khorazm
+1,Male,9.0,Tashkent region
+2,Female,Freshman,Surkhandarya
+2,Female,Sophomore,Tashkent city
+2,Female,9.0,Tashkent city
+2,Male,11.0,Tashkent region
+2,Female,9.0,Fergana
+2,Female,9.0,Fergana
+2,Male,9.0,Fergana
+2,Female,11.0,Tashkent region
+2,Male,10.0,Andijan
+2,Female,11.0,Tashkent region
+2,Female,9.0,Tashkent region
+2,Male,9.0,Tashkent region
+2,Male,9.0,Tashkent region
+2,Female,10.0,Tashkent region
+2,Female,9.0,Khorazm
+2,Female,10.0,Navoi
+2,Female,Freshman,Tashkent region
+2,Female,Junior,Tashkent city
+2,Female,11.0,Andijan
+2,Male,10.0,Fergana
+2,Female,10.0,Kashkadarya
+2,Female,9.0,Tashkent region
+2,Female,10.0,Tashkent region
+2,Female,11.0,Fergana
+2,Male,9.0,Fergana
+2,Female,11.0,Tashkent region
+2,Female,10.0,Fergana
+2,Female,9.0,Khorazm
+2,Male,Freshman,Samarkand
+2,Female,11.0,Andijan
+2,Female,Junior,Kashkadarya
+2,Male,10.0,Tashkent city
+2,Female,9.0,Fergana
+2,Female,9.0,Samarkand
+2,Female,10.0,Andijan
+2,Female,11.0,Karakalpakistan
+2,Female,11.0,Khorazm
+2,Female,10.0,Fergana
+2,Male,Sophomore,Andijan
+2,Female,Sophomore,Khorazm
+2,Female,9.0,Kashkadarya
+2,Female,10.0,Khorazm
+2,Female,10.0,Tashkent city
+2,Female,10.0,Kashkadarya
+2,Female,11.0,Jizzakh
+2,Female,11.0,Jizzakh
+2,Male,10.0,Tashkent city
+2,Male,9.0,Namangan
+2,Male,9.0,Andijan
+2,Male,9.0,Namangan
+2,Male,10.0,Tashkent city
+2,Female,9.0,Tashkent city
+2,Male,9.0,Surkhandarya
+2,Male,10.0,Khorazm
+2,Female,9.0,Khorazm
+2,Male,Junior,Fergana
+2,Female,10.0,Fergana
+2,Male,9.0,Tashkent region
+2,Female,10.0,Tashkent region
+2,Male,10.0,Surkhandarya
+2,Male,10.0,Andijan
+2,Female,Junior,Fergana
+2,Male,9.0,Tashkent city
+2,Female,10.0,Tashkent region
+2,Male,10.0,Tashkent city
+2,Female,Senior,Tashkent city
+2,Female,Senior,Bukhara
+2,Female,11.0,Tashkent city
+2,Male,10.0,Karakalpakistan
+2,Female,9.0,Surkhandarya
+2,Female,9.0,Kashkadarya
+2,Female,Senior,Karakalpakistan
+2,Female,11.0,Tashkent city
+2,Female,9.0,Fergana
+2,Female,11.0,Tashkent region
+2,Male,9.0,Tashkent city
+2,Female,10.0,Jizzakh
+2,Female,9.0,Tashkent city
+2,Male,9.0,Bukhara
+2,Male,9.0,Tashkent city
+2,Male,10.0,Namangan
+2,Male,11.0,Tashkent city
+2,Female,10.0,Sirdarya
+2,Male,11.0,Sirdarya
+3,Male,9.0,Jizzakh
+3,Male,9.0,Tashkent city
+3,Male,11.0,Fergana
+3,Female,11.0,Kashkadarya
+3,Female,10.0,Tashkent city
+3,Female,10.0,Tashkent city
+3,Female,Freshman,Fergana
+3,Male,9.0,Andijan
+3,Female,Junior,Kashkadarya
+16,Female,11.0,Khorazm
+16,Female,11.0,Kashkadarya
