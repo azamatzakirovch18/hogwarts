@@ -35,4 +35,3 @@ elif options == "Summer School 2024":
     summer_school_2024()
 elif options == "Winter School 2024":
     win_24()
-
