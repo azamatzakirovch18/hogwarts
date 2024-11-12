@@ -1,4 +1,4 @@
 /* style.css */
-.viewerBadge_container__1QSob, .stApp header {
+.element-container button[kind="header"], .element-container img {
     display: none !important;
 }
