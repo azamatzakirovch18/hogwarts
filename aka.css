@@ -4,3 +4,8 @@
 .viewerBadge_container__1QSob, .stApp header {
     display: none !important;
 }
+
+
+.element-container button[kind="header"], .element-container img {
+    display: none !important;
+}
