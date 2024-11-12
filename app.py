@@ -8,16 +8,16 @@ from u_summer_school_2024 import summer_school_2024
 from t_winter_school_2024 import win_24
 
 
-# Set page configuration as the first Streamlit command
+
 st.set_page_config(
     page_title="Hogwarts School Dashboard",
-    page_icon=":school:",  # You can set any emoji or icon
-    layout="wide"           # Optional: choose 'centered' or 'wide' layout
+    page_icon=":school:",  
+    layout="wide"           
 )
 
 # Load custom CSS to hide footer and icons
-with open("style.css") as f:
-    st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+# with open("style.css") as f:
+    # st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 # The rest of your Streamlit app code follows here
 
