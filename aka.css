@@ -1,11 +1,15 @@
-/* style.css */
+
 
 /* style.css */
-.viewerBadge_container__1QSob, .stApp header {
+.viewerBadge_container__1QSob, .stApp header, .stButton button, .stToolbar {
     display: none !important;
 }
 
+/* Hide the profile image in the bottom right corner */
+footer {
+    visibility: hidden;
+}
 
-.element-container button[kind="header"], .element-container img {
+footer .stImage {
     display: none !important;
 }
