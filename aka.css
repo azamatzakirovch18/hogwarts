@@ -1,9 +1,3 @@
-.viewerBadge_container__1QSob, .stApp header, .stButton button, .stToolbar {
-    display: none !important;
-}
-footer {
-    visibility: hidden;
-}
-footer .stImage {
+.viewerBadge_container__1QSob {
     display: none !important;
 }
