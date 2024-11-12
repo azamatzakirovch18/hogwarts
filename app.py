@@ -7,8 +7,8 @@ from summer_school_2023 import summer_school_2023
 from u_summer_school_2024 import summer_school_2024
 from t_winter_school_2024 import win_24
 
-with open("aka.css") as f:
-    st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+# with open("aka.css") as f:
+#     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 st.set_page_config(
     page_title="Hogwarts School",
