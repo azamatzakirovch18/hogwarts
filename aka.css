@@ -1,3 +1,7 @@
-.viewerBadge_container__1QSob {
+/* style.css */
+
+/* Target any Streamlit elements in the footer to hide the bottom-right button */
+footer, .viewerBadge_container__1QSob, .viewerBadge_link__1S137 {
     display: none !important;
+    visibility: hidden !important;
 }
