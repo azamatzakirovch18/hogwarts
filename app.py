@@ -25,7 +25,12 @@ with st.sidebar:
         menu_icon="cast",
         default_index=0,
     )
-
+hide_streamlit_style = """
+            <style>
+            footer {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 if options == "Winter School 2022":
     winter_school_2022()
