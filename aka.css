@@ -1,4 +1,6 @@
 /* style.css */
-.element-container button[kind="header"], .element-container img {
+
+/* style.css */
+.viewerBadge_container__1QSob, .stApp header {
     display: none !important;
 }
